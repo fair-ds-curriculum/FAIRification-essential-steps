@@ -26,13 +26,13 @@ FAIR Data Stewardship aims to maximize the re-use of data. But even before new d
 - Data steward plan of the project
 - Storage/hosting
 
-* Consider legal aspect, local service provided, and implementation by your software provider.
+> * Consider legal aspect, local service provided, and implementation by your software provider.
 
 ### GO BUILD (tools that need to be developed) 
 - Inventory of all kinds resources: licence, expertise, tools, …
 - https://data2semantics.github.io 
 - License:
--- It is very important to choose a liberal license: any restriction in the license can hamper the reuse of your data:
+- It is very important to choose a liberal license: any restriction in the license can hamper the reuse of your data:
 Some people are tempted to add a “no commercial use” clause, but do you really intend to stop companies from using results that are coming from results that are coming from your data? And do you think that will be legally possible? (Imagine if Gauss had done this for the normal distribution).
 Many people are tempted to add an “attribution” clause, but when data is repeatedly combined it becomes unwieldy if there is a legal obligation to cite. It is much better to use the scientific honor system, which works for papers as well (note: researchers will cite you if it is appropriate, because they will want to prove that the data come from a reliable source)
 Note also that there are many cases and jurisdictions where a licence on data is a legal fairy tale because there is no copyright on data (there is no creative process, data are just facts).
