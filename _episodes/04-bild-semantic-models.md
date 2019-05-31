@@ -95,8 +95,8 @@ For example: F1000 open peer review platform could be used to host (1) publicati
 - Reviewers can comments on each part of the submission
 - See: ​[expressionatlas documentation](https://www.ebi.ac.uk/rdf/documentation/expressionatlas/)
 
-# GO CHANGE (policy that needs to be revised)
-# GO TRAIN (skills that need to be learned)
+### GO CHANGE (policy that needs to be revised)
+### GO TRAIN (skills that need to be learned)
 Skills to build a model
 Building a model is “subjective”, first level model put together after discussion. Then get confirmation from the expert.
 complexity insights to prevent combinatorial explosions
@@ -107,11 +107,54 @@ complexity insights to prevent combinatorial explosions
 - Data transformation process... semantic annotation of your data
 - FAIR Projector
 
-# GO BUILD (tools that need to be developed)
+## GO BUILD (tools that need to be developed)
 
 - There is no metrics to assess the usability of the data!
 - From draw.io -> rdf
 - See HRB F1000 platform as an example: ​[https://hrbopenresearch.org](https://hrbopenresearch.org)
 - See HRB ​[ToDo​ notes](https://docs.google.com/document/d/1MKsHdgPyuVnAUsC_Gnjcg7amHQjrOS3XPsdvHzOV1aw/edit?userstoinvite=pclarkehome@gmail.com&ts=5a2e4463&actionButton=1) regarding the F1000 platform
-REFERENCES
+
+## Building the Semantic Metadata Model
+INTRODUCTION
+Recommend FDP & RDF , and show how this achieves high levels of FAIRness (this can commented upon for each principle). Then focus on other (community-level) metadata modeling. F3, F4, A1.2, A2, R1.1, R1.3,
+Data should be described with rich metadata (​F2​), and this metadata should be assigned a globally unique and persistent identifier (​F1​). F3 and F4 also go here...
+
+1. is there an existing metadata community standard? If so, is it FAIR ?
+2. FDP metadata versus Community metadata standards ? Extensions to Kees’s metadata]
+editor and possible role for CEDAR
+
+- It should be possible to make your FAIR metadata descriptions, even if you do not know how to FAIRify your actual dataset.
+- Moreover, it should be possible to make your FAIR metadata descriptions even before you create any data (for example, as part of your Data Stewardship Plan when you submitted your project proposal).
+- Your Metadata is a publication in itself. It will have long-term persistence on the FAIR Data Point, even if your dataset should become no longer sustainable (​A2​). Your Data-Metadata can also be versioned, as needed.
+- Defining your metadata is already a big step toward FAIRness (​F2, R1​)!
+- Choose a metadata standard! OR Is there a institutional metadata profile?
+- Some essential Metadata elements:
+- Who are you? Do you have an email, phone number? ​[https://orcid.org]()
+- You can retrieve RDF from ORCID, which can be basis for the
+metadata!!!
+- What is your affiliation? ​[https://www.grid.ac](https://www.grid.ac)
+- Who paid for your research? ​[https://www.crossref.org/services/funder-registry/](https://www.crossref.org/services/funder-registry/) - Date-time?
+  - Methods? Provenance (​R1.2​)?
+  - What licence will you use (​R1.1​)? ​[https://creativecommons.org/licenses](https://creativecommons.org/licenses)
+- Re-use metadata descriptions from the GO FAIR metadata templates or the GO FAIR
+metadata registry
+- Use Kees’s MetaData Editor (see also the ​INSPIRE editor​)
+- Review the established model on set intervals, data models are not static and are
+subject to constant revision
+
+### GO CHANGE (policy that needs to be revised)
+
+### GO TRAIN (skills that need to be learned)
+
+- Legal skills
+- Accessibility framework: Authentication / authorization, sensitive data
+- Institutional policy documents -
+
+### GO BUILD (tools that need to be developed)
+
+- Metadata Profiles (people, funding agencies, research institutions)
+- MetaData Editor ...
+- [Center for Expanded Data Annotation and Retrieval (CEDAR)](https://more.metadatacenter.org/tools-training/cedar-template-tools/#find-template)
+
+# REFERENCES
 - [DIY guide​](https://lorentz.fair-dtls.surf-hosted.nl/FAIR_Lorentz.pdf) based in this ​[DIY document](https://docs.google.com/document/d/1jAEKz4yQCh4N6fVx_EXRhZrWcXCcYSvpSNiXaJAjBMY/edit#heading=h.xy88sp7tpl6o)
