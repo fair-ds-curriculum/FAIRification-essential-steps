@@ -43,10 +43,6 @@ The Lorentz Workshop [ or https://fair-demo.fair-dtls.surf-hosted.nl ] had parti
 
 
 
-References
-Wilkinson M.D. et al. The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data. 3. 160018 EP (2016). link
-Hunter, L.E.: Knowledge-based biomedical Data Science. Data Science. (2017). link
-Malone, J., Stevens, R., Jupp, S., Hancocks, T., Parkinson, H., Brooksbank, C.: Ten Simple Rules for Selecting a Bio-ontology. PLoS Computational Biology. doi:10.1371/journal.pcbi.1004743 (2016). Link
-Semantic Web for the working ontologist  http://workingontologist.org/  the book
+
 
 
