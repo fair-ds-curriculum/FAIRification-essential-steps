@@ -30,7 +30,7 @@ FAIR Data Stewardship aims to maximize the re-use of data. But even before new d
 
 ### GO BUILD (tools that need to be developed) 
 - Inventory of all kinds resources: licence, expertise, tools, …
-  - https://data2semantics.github.io 
+  - [Data2semantics]
   - License:
    - It is very important to choose a liberal license: any restriction in the license can hamper the reuse of your data:
 > - Some people are tempted to add a “no commercial use” clause, but do you really intend to stop companies from using results that are coming from results that are coming from your data? And do you think that will be legally possible? (Imagine if Gauss had done this for the normal distribution).
@@ -40,6 +40,7 @@ FAIR Data Stewardship aims to maximize the re-use of data. But even before new d
 - [Choose a license]
 - [RDA]
 
+[Data2semantics]: https://data2semantics.github.io "Data2semantics"
 [Creative Commons]: https://creativecommons.org/choose/   "Creative Commons"
 [Choose a license]: https://choosealicense.com/ "Choose a license"
 [RDA]:    https://www.rd-alliance.org/rda-codata-legal-interoperability-research-data-principles-and-implementation-guidelines-now   "RDA legal interoperability research data principles and implementation"
