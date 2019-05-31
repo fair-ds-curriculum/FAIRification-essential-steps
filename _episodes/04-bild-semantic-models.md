@@ -13,6 +13,8 @@ FIXME
 
 {% include links.md %}
 
+![FAIRification step 4](/fig/canonical-fairification-step4.png)
+
 # Building Semantic (Meta)data Models
 
 To make data and metadata machine-readable, we need semantic (meta)data models. Existing models can be used, however, unfortunately, currently these need to be constructed in most cases. Section 4A and 4B below describe these processes in detail.

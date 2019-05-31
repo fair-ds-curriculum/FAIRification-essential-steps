@@ -13,6 +13,8 @@ FIXME
 
 {% include links.md %}
 
+![FAIRification step 1](/fig/canonical-fairification-step1.png)
+
 # Introduction
 
 Before you start you should identify the objective of FAIRifying your data:

@@ -13,6 +13,8 @@ FIXME
 
 {% include links.md %}
 
+![FAIRification step 0](/fig/canonical-fairification-step0.png)
+
 ## Introduction
 Many of the decisions that need to be made in the FAIRification process happen
 within the context of a specific project, a specific organization, via a

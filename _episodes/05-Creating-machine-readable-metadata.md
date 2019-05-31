@@ -15,6 +15,7 @@ keypoints:
 
 {% include links.md %}
 
+![FAIRification step 5](/fig/canonical-fairification-step5.png)
 
 Use FAIRifier to build The Resource Description Framework (RDF) of data
 

@@ -13,6 +13,8 @@ FIXME
 
 {% include links.md %}
 
+![FAIRification step 2](/fig/canonical-fairification-step2.png)
+
 # Inventory relevant, existing resources (OPEDAS)
 
 ## INTRODUCTION 

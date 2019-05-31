@@ -13,6 +13,8 @@ FIXME
 
 {% include links.md %}
 
+![FAIRification step 6](/fig/canonical-fairification-step6.png)
+
 # 6. Push to the FAIR Data Point / Compute FAIR Metrics and Metrics Scores 
 ## INTRODUCTION
 

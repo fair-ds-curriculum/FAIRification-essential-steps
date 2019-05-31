@@ -13,6 +13,8 @@ FIXME
 
 {% include links.md %}
 
+![FAIRification step 7](/fig/canonical-fairification-step7.png)
+
 # 7. GO USE: Making your data machine actionable (operational?) 
 
 ## INTRODUCTION 
