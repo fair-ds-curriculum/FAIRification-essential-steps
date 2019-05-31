@@ -16,4 +16,8 @@ keypoints:
 {% include links.md %}
 
 
-Using scripts
+Use FAIRifier to build The Resource Description Framework (RDF) of data
+
+1.1 Based on Open Refine
+1.2 FAIRification of VCF
+1.3 FAIRification of FOAF
