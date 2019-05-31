@@ -14,7 +14,9 @@ FIXME
 {% include links.md %}
 
 # 7. GO USE: Making your data machine actionable (operational?) 
+
 ## INTRODUCTION 
+
 - So what can now be done Answer driving questions (interoperation, search, analysis)
 
 *Andra says: the community needs to start ‘using’ FAIR data*
