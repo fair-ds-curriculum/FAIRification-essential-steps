@@ -156,5 +156,5 @@ subject to constant revision
 - MetaData Editor ...
 - [Center for Expanded Data Annotation and Retrieval (CEDAR)](https://more.metadatacenter.org/tools-training/cedar-template-tools/#find-template)
 
-# REFERENCES
+## REFERENCES
 - [DIY guide​](https://lorentz.fair-dtls.surf-hosted.nl/FAIR_Lorentz.pdf) based in this ​[DIY document](https://docs.google.com/document/d/1jAEKz4yQCh4N6fVx_EXRhZrWcXCcYSvpSNiXaJAjBMY/edit#heading=h.xy88sp7tpl6o)
