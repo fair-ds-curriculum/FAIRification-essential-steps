@@ -19,12 +19,12 @@ OPEDAS stands for Other People’s Existing Data and Services.
 FAIR Data Stewardship aims to maximize the re-use of data. But even before new data is created, it is wise to see if there are already existing data resources that are relevant to the research questions.
 
 ### GO CHANGE (policy that needs to be revised) 
-?
+- ?
 
 ### GO TRAIN (skills that need to be learned) 
-Which external resources can we link to to answer our question
-Data steward plan of the project
-Storage/hosting
+- Which external resources can we link to to answer our question
+- Data steward plan of the project
+- Storage/hosting
 
 * Consider legal aspect, local service provided, and implementation by your software provider.
 
