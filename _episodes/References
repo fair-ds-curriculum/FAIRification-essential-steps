@@ -1,1 +1,22 @@
+---
+title: "References"
+teaching: 0
+exercises: 0
+questions:
+- "Key question (FIXME)"
+objectives:
+- "First learning objective. (FIXME)"
+keypoints:
+- "First key point. Brief Answer to questions. (FIXME)"
+---
+FIXME
+
+{% include links.md %}
+
+#References
+## 1. Wilkinson M.D. et al. The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data. 3. 160018 EP (2016). link
+## 2. Hunter, L.E.: Knowledge-based biomedical Data Science. Data Science. (2017). link
+## 3. Malone, J., Stevens, R., Jupp, S., Hancocks, T., Parkinson, H., Brooksbank, C.: Ten Simple Rules for Selecting a Bio-ontology. PLoS Computational Biology. doi:10.1371/journal.pcbi.1004743 (2016). Link
+## 4. Semantic Web for the working ontologist  http://workingontologist.org/  the book
+
 
