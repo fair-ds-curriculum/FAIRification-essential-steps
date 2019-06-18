@@ -61,7 +61,7 @@ An easier way to answer this question is to use the built in facet browsing.
 1. Select “facet -> text facet”. A view will appear on the left giving a summary of chromosome occurrences. You can use this view to select only certain variants. You can create additional facets and combine them.
 
 By choosing to work with VCF files, the user probably has a variant-centric point of view. In the VCF format each line represents a single variant. So lets create a data model that reflects our point of view. In this case the first step in our semantic model woudl be to assert that our data contains variants:
-Look for an existing ontology that defines “variant”. Bioportal is a good place to start. Copy the URL for the class variant. We can make a small tutorial  (registries) on how to find ontologies… and I suppose have the emergency back up plan… how augment or make your own. 
+Look for an existing ontology that defines “variant”. (Bioportal)[https://bioportal.bioontology.org] is a good place to start. Copy the URL for the class variant. We can make a small tutorial  (registries) on how to find ontologies… and I suppose have the emergency back up plan… how augment or make your own. 
 
 1. Now open the RDF plugin options (top right) and select “Edit RDF skeleton”. A default (empty) skeleton is shown.
 1. Select “add RDF type” and paste the “variant” class URL to indicate each row represents a thing of type variant.
