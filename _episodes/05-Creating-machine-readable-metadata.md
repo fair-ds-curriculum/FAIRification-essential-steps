@@ -19,7 +19,7 @@ keypoints:
 
 Use [FAIRifier](https://github.com/FAIRDataTeam/FAIRifier) to build The Resource Description Framework (RDF) of data.
 
-The FAIRifier is a tool based on OpenRefine and shares its the functionalities. The main added functionality is to add the FAIRified data as RDF to a data resource.
+The FAIRifier is a tool based on OpenRefine and shares its functionalities. The main extra functionality is to add the FAIRified data as RDF to a data resource.
 
 
 ## Summary
