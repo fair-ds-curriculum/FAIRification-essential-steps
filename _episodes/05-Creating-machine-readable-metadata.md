@@ -41,7 +41,7 @@ The FAIRification process employs two tools: the OpenRefine FAIRifier and the Me
 
 You can also use this workbook as a guide to complete the FAIRification of your own dataset. By following the same step-by-step procedure, it should be possible to expose your own data file on a FAIR Data Point going a long way to achieving Findability, Accessibility, and perhaps even automatic interoperability with other FAIR datasets. 
 
-When working with your own data, we encourage you to record your experience at each step, so that your dataset can become an example to others who may wish to FAIRify similar data. We can then build up an Open library of example data FAIRifications for others to use and cite. 
+When working with your own data, we encourage you to record your experience at each step, so that your dataset can become an example for others who may wish to FAIRify similar data. We can then build up an open library of example data FAIRifications for others to use and cite. 
 
 ### Steps
 
