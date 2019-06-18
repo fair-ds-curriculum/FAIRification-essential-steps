@@ -39,7 +39,7 @@ In this workbook we will demonstrate the step-by-step FAIRification process for 
 
 The FAIRification process employs two tools: the OpenRefine FAIRifier and the Metadata Editor. You will access both of these tools via links in this workbook. Might be good to have a schematic summary of the tools… key functions (Note: If at any point you are unhappy about any operations, you can undo them by selecting the Undo/Redo tab in the left panel).
 
-You can also use this workbook as a guide to complete the FAIRification of your own dataset. By following the same step-by-step procedure, it should be possible to expose your own data file on a FAIR Data Point going a long way to achieving Findability, Accessibility, and perhaps even automatic interoperation with other FAIR datasets. 
+You can also use this workbook as a guide to complete the FAIRification of your own dataset. By following the same step-by-step procedure, it should be possible to expose your own data file on a FAIR Data Point going a long way to achieving Findability, Accessibility, and perhaps even automatic interoperability with other FAIR datasets. 
 
 When working with your own data, we encourage you to record your experience at each step, so that your dataset can become an example to others who may wish to FAIRify similar data. We can then build up an Open library of example data FAIRifications for others to use and cite. 
 
